@@ -36,6 +36,8 @@ public class Bullet
 
         // pos += forward * speed
         pos.add(PVector.mult(forward, speed));
+
+        
     }
 
     /**
