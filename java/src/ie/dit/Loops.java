@@ -1,7 +1,7 @@
 package ie.dit;
 
 import processing.core.PApplet;
-import java.util.Arrays;
+// import java.util.Arrays;
 
 public class Loops extends PApplet
 {	
